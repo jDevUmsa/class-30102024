@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- Configuración del borde -->
+    <stroke
+        android:width="2dp"
+        android:color="#000000" /> <!-- Ancho y color del borde -->
+
+    <!-- Opcional: radios para bordes redondeados -->
+    <corners android:radius="8dp" /> <!-- Radio de las esquinas -->
+</shape>
